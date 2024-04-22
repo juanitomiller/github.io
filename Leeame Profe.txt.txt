@@ -1,0 +1,24 @@
+Recepcion de fork a mi proyecto de Curriculum (Colaboracion a mi proyecto)
+
+Bastian Gabrielli https://bastiangd.github.io/
+
+//Realizo un cambio de text en el footer de mi proyecto.
+
+
+........................................................................................................
+//Colaboracion y fork a 2 proyectos de compañeros.
+
+Mis fork a compañeros son los siguientes: 
+
+fork Cristian Gutierrez  https://github.com/90cris/90cris.github.io.git
+
+//Se realiza modificacion en el footer, Padding XY se resta -1 valor al asignado (2). 
+........................................................................................................
+
+//Colaboracion y fork a proyecto de Bastian Gabrielli.
+
+
+Bastian Gabrielli    https://bastiangd.github.io/ 
+
+
+//Se realiza modificacion en el footer, Actualizacion de Ciudad y Region.
